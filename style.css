@@ -2,6 +2,11 @@
     margin: 0;
     padding: 0;
     --dark-bg-color: #1F2937;
+    --header-text-color: #F9FAF8;
+    --second-text-color: #E5E7EB;
+    --button-color: #3882F6;
+    --dark-text-color: #1F2937;
+    --mid-bg-color: #E5e7eb;
 }
 body {
     font-family: roboto;
