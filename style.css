@@ -127,3 +127,7 @@ body {
     font-style: italic;
     color: var(--dark-bg-color);
 }
+.author {
+    text-align: right;
+    font-weight: bold;
+}
