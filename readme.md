@@ -12,6 +12,10 @@ Features:
 
 Notes:
 
+- took roughly 2 hrs (maybe 1:45)
+  - might try a limited speed run next, like given 30-45 min how far can we get?
+- added sticky navbar
+
 Challenges:
 
 Future Development:
