@@ -9,8 +9,8 @@ body {
     /* position: sticky; */
     display: flex;
     width: 100%;
-    justify-content: space-between;
-    margin: auto 150px;
+    justify-content: space-around;
+    padding: 5px ;
     align-items: center;
     background: grey;
 }
