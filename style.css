@@ -141,6 +141,10 @@ body {
     border-radius: 10px;
     padding: 50px 150px;
 }
+.CTA-right {
+    display: flex;
+}
 .CTA-btn {
     border: 2px solid var(--header-text-color);
+    margin-left: 275px;
 }
