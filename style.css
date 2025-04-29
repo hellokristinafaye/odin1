@@ -137,7 +137,9 @@ body {
     color: var(--header-text-color);
     display: flex;
     width: 70%;
-    margin: 100px 200px;
+    margin: 100px auto;
+    border-radius: 10px;
+    padding: 50px 150px;
 }
 .CTA-btn {
     border: 2px solid var(--header-text-color);
