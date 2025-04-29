@@ -42,6 +42,7 @@ body {
 }
 .heading-container {
     display: flex;
+    width: 100%;
 }
 .header .left {
         flex-basis: 45%;
@@ -53,4 +54,11 @@ body {
     color: var(--second-text-color);
     font-weight: 10;
 }
-
+.img-placeholder {
+    width: 550px;
+    height: 200px;
+    background: grey;
+}
+.img-placeholder-caption {
+    padding: 90px ;
+}
