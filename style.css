@@ -37,12 +37,13 @@ body {
 .header {
     background: var(--dark-bg-color);
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     padding: 100px 232px;
 }
 .heading-container {
     display: flex;
     width: 100%;
+    justify-content: space-between;
 }
 .header .left {
         flex-basis: 45%;
