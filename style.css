@@ -121,3 +121,9 @@ body {
     padding: 100px;
     width: 50%;
 }
+.quote {
+    font-size: 36px;
+    font-weight: 100;
+    font-style: italic;
+    color: var(--dark-bg-color);
+}
