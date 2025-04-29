@@ -135,6 +135,9 @@ body {
 .CTA-box {
     background: var(--button-color);
     color: var(--header-text-color);
+    display: flex;
+    width: 70%;
+    margin: 100px 200px;
 }
 .CTA-btn {
     border: 2px solid var(--header-text-color);
