@@ -148,3 +148,12 @@ body {
     border: 2px solid var(--header-text-color);
     margin-left: 275px;
 }
+
+
+
+footer {
+    background: var(--dark-bg-color);
+    color: var(--second-text-color);
+    text-align: center;
+    padding: 30px;
+}
