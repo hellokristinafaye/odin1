@@ -136,4 +136,6 @@ body {
     background: var(--button-color);
     color: var(--header-text-color);
 }
-.CTA-btn
+.CTA-btn {
+    border: 2px solid var(--header-text-color);
+}
