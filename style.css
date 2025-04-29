@@ -40,6 +40,9 @@ body {
     justify-content: space-around;
     padding: 100px 232px;
 }
+.heading-container {
+    display: flex;
+}
 .header .left {
         flex-basis: 45%;
 }
